@@ -1,6 +1,6 @@
 def my_hash
-  your_hash = {"firstname" => "Isaac", "lastname" => "Smith"}
-  return your_hash["firstname"]
+  my_hash = {"firstname" => "Isaac", "lastname" => "Smith"}
+  return my_hash["firstname"]
 end
 
 
