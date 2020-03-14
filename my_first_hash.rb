@@ -1,5 +1,9 @@
 def my_hash(hash)
-  hash = {firstname => "Isaac", lastname => "Smith"}
+  hash = {
+    name ={ 
+      fname => "Isaac",
+      lname => "Smith"
+    }
 end
 
 
