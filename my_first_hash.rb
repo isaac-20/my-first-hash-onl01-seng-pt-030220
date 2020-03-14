@@ -1,9 +1,5 @@
 def my_hash(hash)
-  hash = {
-    name ={ 
-      fname => "Isaac",
-      lname => "Smith"
-    }
+  your_hash = {fname => "Isaac", lname => "Smith"}
 end
 
 
